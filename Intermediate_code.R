@@ -4,7 +4,7 @@
 
 # Load the data
 
-load(file="C:\\Users\\bapti\\Downloads\\BEC_1ère_année\\Autumn_2024\\Advanced_data_analysis\\KRAS_dep.RDATA")
+load(file="path\\to\\file\\KRAS_dep.RDATA")
 windows()
 par(mfrow=c(2,2))
 
